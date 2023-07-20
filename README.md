@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a href="https://SantrikoCodeMaster.github.io/OlaStudio/">
+<a href="https://SantrikoCodeMaster.github.io/OlaStudio/" target="_blank">
 <img src="images/ola studio.png" alt="Project">
 </a>
 
