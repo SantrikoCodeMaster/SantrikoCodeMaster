@@ -83,7 +83,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<a href="[https://github.com/othneildrew/Best-README-Template](https://santrikocodemaster.github.io/OlaStudio/)">
 <img src="images/ola studio.png" alt="Project">
+</a>
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
