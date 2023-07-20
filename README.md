@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a href="[https://github.com/othneildrew/Best-README-Template](https://santrikocodemaster.github.io/OlaStudio/)">
+<a href="https://SantrikoCodeMaster.github.io/OlaStudio/">
 <img src="images/ola studio.png" alt="Project">
 </a>
 
